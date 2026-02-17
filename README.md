@@ -56,20 +56,6 @@ population-of-cities-iran/
 
 3. Run all cells.
 
----
-
-## 📷 Sample Output
-
-(Insert generated map image here)
-
----
-
-## 🔮 Future Improvements
-
-* Interactive visualization (Plotly/Folium)
-* Adding more cities
-* Time-based population comparison
-* Extending analysis to other countries
 
 ---
 
